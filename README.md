@@ -27,6 +27,9 @@ This project is a comprehensive data analysis study on employee performance and 
 
 **Technologies | Teknolojiler:** Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter
 
+<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Python">
+<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter" alt="Jupyter">
+
 <br>
 
 <img width="640" height="640" alt="1" src="https://github.com/user-attachments/assets/ca1f58f1-b8e8-4a99-9969-676dd82bb7eb" />
@@ -35,5 +38,4 @@ This project is a comprehensive data analysis study on employee performance and 
 
 </div>
 
-<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Python">
-<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter" alt="Jupyter">
+
