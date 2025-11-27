@@ -1,0 +1,501 @@
+﻿Calisan_ID,Isim,Departman,Yas,Deneyim_Yil,Maas,Performans_Puani,Egitim_Saati,Proje_Sayisi,Izin_Gun,Yas_Grubu,Performans_Kategori,Deneyim_Seviye
+1001,Çalışan_1,İK,41,14,96068,7.21,20.0,0,21,Kıdemli,Yüksek,Senior
+1002,Çalışan_2,Pazarlama,46,8,42136,2.81,29.0,14,23,Kıdemli,Düşük,Mid
+1003,Çalışan_3,Muhasebe,43,20,59036,5.82,12.0,3,21,Kıdemli,Orta,Expert
+1004,Çalışan_4,Pazarlama,34,8,49869,1.87,33.0,2,0,Orta,Düşük,Mid
+1005,Çalışan_5,Pazarlama,40,9,40191,5.05,3.0,12,3,Orta,Orta,Senior
+1006,Çalışan_6,Satış,57,19,70423,7.81,27.0,9,12,Üst Düzey,Yüksek,Expert
+1007,Çalışan_7,Muhasebe,33,24,89821,4.13,101.0,11,22,Orta,Orta,Expert
+1008,Çalışan_8,Muhasebe,40,20,66274,6.98,94.0,1,12,Orta,Orta,Expert
+1009,Çalışan_9,Muhasebe,33,8,62943,8.16,58.0,11,12,Orta,Yüksek,Mid
+1010,Çalışan_10,Pazarlama,30,2,104355,9.34,118.0,2,1,Genç,Yüksek,Junior
+1011,Çalışan_11,İK,28,19,114802,3.11,26.0,10,8,Genç,Düşük,Expert
+1012,Çalışan_12,Muhasebe,49,24,93310,4.59,68.0,14,23,Kıdemli,Orta,Expert
+1013,Çalışan_13,Pazarlama,35,10,86496,2.37,24.0,14,7,Orta,Düşük,Senior
+1014,Çalışan_14,Satış,52,5,68652,9.93,2.0,10,6,Üst Düzey,Yüksek,Mid
+1015,Çalışan_15,İK,40,1,104454,9.34,96.0,13,3,Orta,Yüksek,Junior
+1016,Çalışan_16,Satış,37,6,38189,5.86,57.30103092783505,10,17,Orta,Orta,Mid
+1017,Çalışan_17,İK,26,17,111607,8.58,24.0,0,2,Genç,Yüksek,Expert
+1018,Çalışan_18,Pazarlama,56,1,50414,5.69,19.0,0,27,Üst Düzey,Orta,Junior
+1019,Çalışan_19,IT,33,16,115840,6.61,33.0,5,5,Orta,Orta,Expert
+1020,Çalışan_20,İK,46,10,82474,1.8,25.0,4,11,Kıdemli,Düşük,Senior
+1021,Çalışan_21,Satış,42,11,96808,7.8,4.0,7,11,Kıdemli,Yüksek,Senior
+1022,Çalışan_22,Pazarlama,57,18,114644,2.15,57.30103092783505,1,20,Üst Düzey,Düşük,Expert
+1023,Çalışan_23,İK,44,21,112498,8.43,60.0,3,27,Kıdemli,Yüksek,Expert
+1024,Çalışan_24,IT,37,23,119882,8.04,91.0,7,7,Orta,Yüksek,Expert
+1025,Çalışan_25,IT,35,24,113398,5.58,92.0,11,21,Orta,Orta,Expert
+1026,Çalışan_26,Muhasebe,52,6,29379,1.33,8.0,5,21,Üst Düzey,Düşük,Mid
+1027,Çalışan_27,Muhasebe,26,19,73850,3.73,115.0,0,0,Genç,Düşük,Expert
+1028,Çalışan_28,Satış,56,5,65749,3.37,101.0,14,3,Üst Düzey,Düşük,Mid
+1029,Çalışan_29,İK,44,20,96014,4.24,49.0,3,20,Kıdemli,Orta,Expert
+1030,Çalışan_30,İK,50,23,71867,1.79,5.0,0,27,Kıdemli,Düşük,Expert
+1031,Çalışan_31,Muhasebe,32,0,82705,9.43,82.0,12,10,Orta,Yüksek,Junior
+1032,Çalışan_32,İK,39,16,108892,5.98,59.0,1,2,Orta,Orta,Expert
+1033,Çalışan_33,İK,33,10,70562,3.75,43.0,4,12,Orta,Düşük,Senior
+1034,Çalışan_34,IT,30,21,116101,4.57,10.0,13,24,Genç,Orta,Expert
+1035,Çalışan_35,Muhasebe,31,17,117212,5.02,65.0,7,16,Orta,Orta,Expert
+1036,Çalışan_36,Pazarlama,38,20,92652,6.41,46.0,7,21,Orta,Orta,Expert
+1037,Çalışan_37,Muhasebe,59,16,82246,5.64,107.0,10,21,Üst Düzey,Orta,Expert
+1038,Çalışan_38,Pazarlama,28,6,55527,9.27,107.0,2,9,Genç,Yüksek,Mid
+1039,Çalışan_39,IT,34,16,87251,5.47,57.30103092783505,10,20,Orta,Orta,Expert
+1040,Çalışan_40,Satış,30,19,94935,9.93,84.0,12,11,Genç,Yüksek,Expert
+1041,Çalışan_41,İK,48,8,108172,8.66,87.0,3,14,Kıdemli,Yüksek,Mid
+1042,Çalışan_42,IT,23,16,45767,2.88,97.0,9,20,Genç,Düşük,Expert
+1043,Çalışan_43,İK,26,19,109777,9.38,85.0,10,9,Genç,Yüksek,Expert
+1044,Çalışan_44,Satış,50,21,79857,2.05,2.0,13,13,Kıdemli,Düşük,Expert
+1045,Çalışan_45,Satış,58,21,105427,8.36,75.0,5,12,Üst Düzey,Yüksek,Expert
+1046,Çalışan_46,IT,59,7,47641,4.43,91.0,10,4,Üst Düzey,Orta,Mid
+1047,Çalışan_47,Satış,40,16,118046,8.9,57.30103092783505,10,5,Orta,Yüksek,Expert
+1048,Çalışan_48,Pazarlama,29,6,43055,8.81,89.0,9,23,Genç,Yüksek,Mid
+1049,Çalışan_49,Satış,22,0,58160,8.25,111.0,2,1,Genç,Yüksek,Junior
+1050,Çalışan_50,İK,43,12,54304,8.11,20.0,1,21,Kıdemli,Yüksek,Senior
+1051,Çalışan_51,İK,38,22,68987,3.74,27.0,5,16,Orta,Düşük,Expert
+1052,Çalışan_52,İK,28,18,90999,1.73,119.0,10,3,Genç,Düşük,Expert
+1053,Çalışan_53,İK,46,23,66251,4.63,89.0,12,13,Kıdemli,Orta,Expert
+1054,Çalışan_54,Pazarlama,25,18,97312,2.56,61.0,14,9,Genç,Düşük,Expert
+1055,Çalışan_55,Muhasebe,57,16,117388,7.25,32.0,4,2,Üst Düzey,Yüksek,Expert
+1056,Çalışan_56,IT,27,12,50297,4.11,84.0,13,24,Genç,Orta,Senior
+1057,Çalışan_57,İK,52,15,78013,9.78,34.0,9,2,Üst Düzey,Yüksek,Senior
+1058,Çalışan_58,Satış,40,7,106929,6.77,51.0,4,14,Orta,Orta,Mid
+1059,Çalışan_59,İK,48,18,82621,8.4,57.30103092783505,9,5,Kıdemli,Yüksek,Expert
+1060,Çalışan_60,Satış,31,17,82447,2.19,40.0,12,16,Orta,Düşük,Expert
+1061,Çalışan_61,Satış,47,0,57380,8.76,50.0,4,11,Kıdemli,Yüksek,Junior
+1062,Çalışan_62,İK,40,13,74295,9.3,46.0,9,21,Orta,Yüksek,Senior
+1063,Çalışan_63,Pazarlama,24,18,74187,5.38,81.0,11,19,Genç,Orta,Expert
+1064,Çalışan_64,Satış,34,14,76003,6.46,57.0,4,23,Orta,Orta,Senior
+1065,Çalışan_65,Satış,49,17,113632,7.88,74.0,2,28,Kıdemli,Yüksek,Expert
+1066,Çalışan_66,İK,41,1,65704,2.57,56.0,6,10,Kıdemli,Düşük,Junior
+1067,Çalışan_67,Satış,49,21,65353,5.52,22.0,5,24,Kıdemli,Orta,Expert
+1068,Çalışan_68,Satış,29,16,79778,4.59,47.0,3,3,Genç,Orta,Expert
+1069,Çalışan_69,İK,22,17,72222,2.32,21.0,1,25,Genç,Düşük,Expert
+1070,Çalışan_70,İK,24,5,60361,4.31,16.0,11,27,Genç,Orta,Mid
+1071,Çalışan_71,IT,34,18,89789,1.61,68.0,8,25,Orta,Düşük,Expert
+1072,Çalışan_72,Pazarlama,49,3,33705,1.23,107.0,0,5,Kıdemli,Düşük,Junior
+1073,Çalışan_73,Pazarlama,46,0,45469,2.22,10.0,12,0,Kıdemli,Düşük,Junior
+1074,Çalışan_74,Satış,54,7,57865,9.67,93.0,12,19,Üst Düzey,Yüksek,Mid
+1075,Çalışan_75,Pazarlama,59,22,74188,5.95,14.0,10,22,Üst Düzey,Orta,Expert
+1076,Çalışan_76,Satış,27,6,49920,9.69,90.0,14,27,Genç,Yüksek,Mid
+1077,Çalışan_77,IT,53,2,96658,4.89,34.0,13,15,Üst Düzey,Orta,Junior
+1078,Çalışan_78,İK,42,9,77966,3.81,32.0,3,14,Kıdemli,Düşük,Senior
+1079,Çalışan_79,İK,37,9,57102,5.56,83.0,0,16,Orta,Orta,Senior
+1080,Çalışan_80,İK,42,18,75331,4.96,15.0,12,7,Kıdemli,Orta,Expert
+1081,Çalışan_81,Pazarlama,32,13,89375,1.95,33.0,5,27,Orta,Düşük,Senior
+1082,Çalışan_82,IT,58,1,90585,6.77,65.0,3,25,Üst Düzey,Orta,Junior
+1083,Çalışan_83,Pazarlama,57,0,73187,2.94,98.0,4,11,Üst Düzey,Düşük,Junior
+1084,Çalışan_84,Pazarlama,56,22,64253,6.58,39.0,4,26,Üst Düzey,Orta,Expert
+1085,Çalışan_85,IT,40,22,83742,6.85,119.0,8,21,Orta,Orta,Expert
+1086,Çalışan_86,IT,41,17,98170,2.37,27.0,0,20,Kıdemli,Düşük,Expert
+1087,Çalışan_87,IT,39,6,71513,1.55,46.0,12,9,Orta,Düşük,Mid
+1088,Çalışan_88,IT,35,7,75316,8.03,38.0,1,26,Orta,Yüksek,Mid
+1089,Çalışan_89,İK,36,0,78548,5.14,69.0,12,14,Orta,Orta,Junior
+1090,Çalışan_90,Muhasebe,52,24,93254,1.52,72.0,5,29,Üst Düzey,Düşük,Expert
+1091,Çalışan_91,Muhasebe,22,22,96502,9.95,19.0,4,8,Genç,Yüksek,Expert
+1092,Çalışan_92,IT,24,2,74371,1.52,0.0,10,1,Genç,Düşük,Junior
+1093,Çalışan_93,Muhasebe,37,23,112921,7.26,71.0,6,4,Orta,Yüksek,Expert
+1094,Çalışan_94,Muhasebe,44,22,131116,9.85,118.0,2,5,Kıdemli,Yüksek,Expert
+1095,Çalışan_95,IT,32,7,63996,3.15,86.0,2,6,Orta,Düşük,Mid
+1096,Çalışan_96,Muhasebe,33,21,56686,2.28,62.0,9,20,Orta,Düşük,Expert
+1097,Çalışan_97,Pazarlama,31,24,62604,2.09,66.0,1,24,Orta,Düşük,Expert
+1098,Çalışan_98,Satış,53,14,56317,3.73,3.0,12,0,Üst Düzey,Düşük,Senior
+1099,Çalışan_99,Satış,37,4,44802,1.91,57.0,2,22,Orta,Düşük,Mid
+1100,Çalışan_100,IT,29,2,34440,7.23,24.0,9,25,Genç,Yüksek,Junior
+1101,Çalışan_101,İK,59,18,93410,1.56,46.0,0,6,Üst Düzey,Düşük,Expert
+1102,Çalışan_102,IT,33,0,52591,5.58,37.0,4,19,Orta,Orta,Junior
+1103,Çalışan_103,İK,45,14,82325,9.97,14.0,13,24,Kıdemli,Yüksek,Senior
+1104,Çalışan_104,Satış,49,7,80318,8.33,62.0,14,29,Kıdemli,Yüksek,Mid
+1105,Çalışan_105,IT,29,1,52599,6.54,20.0,11,11,Genç,Orta,Junior
+1106,Çalışan_106,Pazarlama,49,2,44159,3.76,98.0,4,15,Kıdemli,Düşük,Junior
+1107,Çalışan_107,Muhasebe,57,23,84303,6.62,56.0,11,15,Üst Düzey,Orta,Expert
+1108,Çalışan_108,İK,47,13,85321,5.74,116.0,10,10,Kıdemli,Orta,Senior
+1109,Çalışan_109,Muhasebe,29,23,64936,4.83,52.0,6,20,Genç,Orta,Expert
+1110,Çalışan_110,Muhasebe,49,13,75304,2.18,45.0,3,3,Kıdemli,Düşük,Senior
+1111,Çalışan_111,IT,49,10,116876,8.98,115.0,2,12,Kıdemli,Yüksek,Senior
+1112,Çalışan_112,Muhasebe,58,15,56311,5.58,13.0,0,6,Üst Düzey,Orta,Senior
+1113,Çalışan_113,Pazarlama,57,3,55707,2.75,99.0,11,3,Üst Düzey,Düşük,Junior
+1114,Çalışan_114,Muhasebe,48,19,91230,4.31,75.0,14,14,Kıdemli,Orta,Expert
+1115,Çalışan_115,IT,38,4,92248,4.73,16.0,7,18,Orta,Orta,Mid
+1116,Çalışan_116,Pazarlama,30,21,102227,8.45,38.0,12,8,Genç,Yüksek,Expert
+1117,Çalışan_117,Satış,54,20,65855,7.6,8.0,2,10,Üst Düzey,Yüksek,Expert
+1118,Çalışan_118,Muhasebe,41,13,95199,7.92,98.0,12,7,Kıdemli,Yüksek,Senior
+1119,Çalışan_119,IT,34,22,103825,1.1,76.0,14,0,Orta,Düşük,Expert
+1120,Çalışan_120,Satış,49,15,99098,4.75,78.0,1,22,Kıdemli,Orta,Senior
+1121,Çalışan_121,Satış,50,17,66411,5.33,81.0,10,24,Kıdemli,Orta,Expert
+1122,Çalışan_122,İK,34,6,26866,1.17,114.0,3,23,Orta,Düşük,Mid
+1123,Çalışan_123,Pazarlama,56,9,103940,3.34,96.0,2,7,Üst Düzey,Düşük,Senior
+1124,Çalışan_124,Muhasebe,27,6,87517,7.84,5.0,12,12,Genç,Yüksek,Mid
+1125,Çalışan_125,IT,39,0,30996,2.23,90.0,0,21,Orta,Düşük,Junior
+1126,Çalışan_126,İK,26,22,88181,5.82,22.0,2,26,Genç,Orta,Expert
+1127,Çalışan_127,Pazarlama,46,20,101907,2.94,58.0,11,3,Kıdemli,Düşük,Expert
+1128,Çalışan_128,İK,23,18,78751,1.11,90.0,1,7,Genç,Düşük,Expert
+1129,Çalışan_129,Pazarlama,31,15,52552,3.17,97.0,7,2,Orta,Düşük,Senior
+1130,Çalışan_130,Pazarlama,51,18,127015,9.78,119.0,5,28,Üst Düzey,Yüksek,Expert
+1131,Çalışan_131,Muhasebe,26,3,41029,8.21,45.0,8,8,Genç,Yüksek,Junior
+1132,Çalışan_132,Pazarlama,54,17,109048,9.64,37.0,7,28,Üst Düzey,Yüksek,Expert
+1133,Çalışan_133,İK,22,1,81895,5.39,13.0,9,1,Genç,Orta,Junior
+1134,Çalışan_134,Pazarlama,39,0,48739,1.99,99.0,2,1,Orta,Düşük,Junior
+1135,Çalışan_135,Muhasebe,53,14,107972,5.93,116.0,4,27,Üst Düzey,Orta,Senior
+1136,Çalışan_136,Muhasebe,32,4,57769,5.09,71.0,6,12,Orta,Orta,Mid
+1137,Çalışan_137,İK,42,19,90715,8.6,61.0,4,14,Kıdemli,Yüksek,Expert
+1138,Çalışan_138,Satış,47,10,62769,1.88,34.0,7,27,Kıdemli,Düşük,Senior
+1139,Çalışan_139,Satış,46,9,101326,5.39,18.0,11,22,Kıdemli,Orta,Senior
+1140,Çalışan_140,Pazarlama,43,1,47343,2.35,29.0,4,11,Kıdemli,Düşük,Junior
+1141,Çalışan_141,IT,48,2,31994,3.92,77.0,0,25,Kıdemli,Düşük,Junior
+1142,Çalışan_142,Pazarlama,34,22,85084,7.64,83.0,4,3,Orta,Yüksek,Expert
+1143,Çalışan_143,İK,54,22,100248,5.28,112.0,3,25,Üst Düzey,Orta,Expert
+1144,Çalışan_144,İK,55,11,104548,4.38,24.0,5,7,Üst Düzey,Orta,Senior
+1145,Çalışan_145,İK,56,19,103795,4.55,39.0,2,8,Üst Düzey,Orta,Expert
+1146,Çalışan_146,İK,22,4,51861,5.14,87.0,14,22,Genç,Orta,Mid
+1147,Çalışan_147,İK,42,4,89788,8.07,13.0,10,4,Kıdemli,Yüksek,Mid
+1148,Çalışan_148,Muhasebe,27,5,70647,9.03,25.0,4,23,Genç,Yüksek,Mid
+1149,Çalışan_149,Satış,49,8,96130,9.6,57.30103092783505,1,19,Kıdemli,Yüksek,Mid
+1150,Çalışan_150,İK,38,1,65641,8.08,86.0,10,17,Orta,Yüksek,Junior
+1151,Çalışan_151,IT,26,20,121978,3.84,21.0,5,10,Genç,Düşük,Expert
+1152,Çalışan_152,IT,52,11,92047,7.19,47.0,12,14,Üst Düzey,Yüksek,Senior
+1153,Çalışan_153,IT,26,2,71288,4.94,82.0,14,27,Genç,Orta,Junior
+1154,Çalışan_154,IT,59,19,89579,3.29,109.0,11,21,Üst Düzey,Düşük,Expert
+1155,Çalışan_155,Muhasebe,24,21,115909,8.57,50.0,5,8,Genç,Yüksek,Expert
+1156,Çalışan_156,IT,44,11,72759,1.35,2.0,4,16,Kıdemli,Düşük,Senior
+1157,Çalışan_157,İK,58,23,116527,9.12,41.0,5,26,Üst Düzey,Yüksek,Expert
+1158,Çalışan_158,Pazarlama,58,16,84788,5.15,18.0,10,25,Üst Düzey,Orta,Expert
+1159,Çalışan_159,IT,31,9,64391,6.73,72.0,6,11,Orta,Orta,Senior
+1160,Çalışan_160,Muhasebe,31,23,125041,6.93,27.0,11,6,Orta,Orta,Expert
+1161,Çalışan_161,Muhasebe,40,13,116103,9.06,83.0,4,9,Orta,Yüksek,Senior
+1162,Çalışan_162,IT,38,22,110613,6.73,44.0,0,24,Orta,Orta,Expert
+1163,Çalışan_163,Pazarlama,42,16,58428,6.53,70.0,7,25,Kıdemli,Orta,Expert
+1164,Çalışan_164,IT,35,17,71124,1.6,77.0,3,24,Orta,Düşük,Expert
+1165,Çalışan_165,Muhasebe,30,18,98344,5.67,62.0,8,9,Genç,Orta,Expert
+1166,Çalışan_166,Satış,22,16,100685,2.35,72.0,13,26,Genç,Düşük,Expert
+1167,Çalışan_167,İK,34,13,99849,7.64,118.0,9,12,Orta,Yüksek,Senior
+1168,Çalışan_168,Muhasebe,25,8,90546,5.61,18.0,11,18,Genç,Orta,Mid
+1169,Çalışan_169,IT,22,7,63138,7.12,46.0,5,10,Genç,Yüksek,Mid
+1170,Çalışan_170,İK,53,1,70121,1.38,115.0,0,12,Üst Düzey,Düşük,Junior
+1171,Çalışan_171,IT,55,12,105097,1.76,13.0,2,20,Üst Düzey,Düşük,Senior
+1172,Çalışan_172,IT,49,24,131541,7.45,119.0,2,7,Kıdemli,Yüksek,Expert
+1173,Çalışan_173,Satış,52,6,36378,1.65,37.0,9,7,Üst Düzey,Düşük,Mid
+1174,Çalışan_174,İK,29,8,55283,1.64,52.0,11,3,Genç,Düşük,Mid
+1175,Çalışan_175,İK,47,21,111488,1.11,60.0,11,14,Kıdemli,Düşük,Expert
+1176,Çalışan_176,Satış,55,21,116767,9.61,35.0,3,27,Üst Düzey,Yüksek,Expert
+1177,Çalışan_177,Muhasebe,24,10,102940,7.64,39.0,5,10,Genç,Yüksek,Senior
+1178,Çalışan_178,IT,33,13,92646,4.18,80.0,14,10,Orta,Orta,Senior
+1179,Çalışan_179,Pazarlama,22,3,28765,3.67,29.0,6,0,Genç,Düşük,Junior
+1180,Çalışan_180,IT,26,12,67315,4.15,8.0,9,16,Genç,Orta,Senior
+1181,Çalışan_181,IT,51,1,65760,7.97,63.0,3,14,Üst Düzey,Yüksek,Junior
+1182,Çalışan_182,Muhasebe,51,22,126781,6.95,32.0,5,19,Üst Düzey,Orta,Expert
+1183,Çalışan_183,IT,38,4,52629,2.67,119.0,10,5,Orta,Düşük,Mid
+1184,Çalışan_184,Satış,44,10,38529,2.57,51.0,0,23,Kıdemli,Düşük,Senior
+1185,Çalışan_185,Satış,36,5,51963,5.58,88.0,13,21,Orta,Orta,Mid
+1186,Çalışan_186,İK,58,17,68009,6.94,13.0,7,27,Üst Düzey,Orta,Expert
+1187,Çalışan_187,Pazarlama,42,20,122310,7.88,74.0,6,24,Kıdemli,Yüksek,Expert
+1188,Çalışan_188,IT,35,9,60106,3.39,52.0,14,14,Orta,Düşük,Senior
+1189,Çalışan_189,IT,23,3,48510,1.19,98.0,10,8,Genç,Düşük,Junior
+1190,Çalışan_190,Muhasebe,32,8,76643,1.74,104.0,10,13,Orta,Düşük,Mid
+1191,Çalışan_191,Satış,59,5,108355,9.71,58.0,8,17,Üst Düzey,Yüksek,Mid
+1192,Çalışan_192,Pazarlama,55,1,35473,3.66,77.0,2,25,Üst Düzey,Düşük,Junior
+1193,Çalışan_193,İK,59,16,82801,7.92,93.0,1,16,Üst Düzey,Yüksek,Expert
+1194,Çalışan_194,Satış,55,4,67902,6.62,40.0,0,17,Üst Düzey,Orta,Mid
+1195,Çalışan_195,İK,39,24,116326,4.44,67.0,2,4,Orta,Orta,Expert
+1196,Çalışan_196,Muhasebe,51,5,49488,2.85,67.0,4,19,Üst Düzey,Düşük,Mid
+1197,Çalışan_197,Muhasebe,36,11,72557,2.09,91.0,13,19,Orta,Düşük,Senior
+1198,Çalışan_198,IT,48,22,76393,6.54,7.0,10,8,Kıdemli,Orta,Expert
+1199,Çalışan_199,Pazarlama,55,20,71266,7.97,1.0,1,10,Üst Düzey,Yüksek,Expert
+1200,Çalışan_200,İK,59,9,43660,6.8,104.0,11,23,Üst Düzey,Orta,Senior
+1201,Çalışan_201,Satış,54,21,84785,5.77,109.0,2,21,Üst Düzey,Orta,Expert
+1202,Çalışan_202,Muhasebe,45,20,79650,1.38,85.0,14,0,Kıdemli,Düşük,Expert
+1203,Çalışan_203,IT,36,24,90462,9.72,40.0,14,17,Orta,Yüksek,Expert
+1204,Çalışan_204,IT,51,5,91459,8.19,119.0,14,5,Üst Düzey,Yüksek,Mid
+1205,Çalışan_205,İK,38,7,61160,3.64,54.0,3,26,Orta,Düşük,Mid
+1206,Çalışan_206,Muhasebe,26,1,38496,5.58,15.0,6,1,Genç,Orta,Junior
+1207,Çalışan_207,Pazarlama,50,11,64389,6.42,92.0,12,14,Kıdemli,Orta,Senior
+1208,Çalışan_208,Muhasebe,25,12,61562,6.24,61.0,2,28,Genç,Orta,Senior
+1209,Çalışan_209,İK,31,24,67121,7.73,112.0,14,25,Orta,Yüksek,Expert
+1210,Çalışan_210,İK,38,20,99032,8.31,47.0,8,20,Orta,Yüksek,Expert
+1211,Çalışan_211,Muhasebe,31,6,40740,6.91,29.0,7,13,Orta,Orta,Mid
+1212,Çalışan_212,İK,38,9,93115,2.15,11.0,3,4,Orta,Düşük,Senior
+1213,Çalışan_213,Muhasebe,41,12,50026,4.04,57.30103092783505,12,5,Kıdemli,Orta,Senior
+1214,Çalışan_214,Satış,45,16,103200,9.35,10.0,0,5,Kıdemli,Yüksek,Expert
+1215,Çalışan_215,Muhasebe,26,20,67349,3.02,63.0,0,29,Genç,Düşük,Expert
+1216,Çalışan_216,Muhasebe,55,13,98430,4.35,109.0,0,21,Üst Düzey,Orta,Senior
+1217,Çalışan_217,İK,27,1,56307,4.89,49.0,0,29,Genç,Orta,Junior
+1218,Çalışan_218,İK,23,21,115721,4.95,84.0,7,17,Genç,Orta,Expert
+1219,Çalışan_219,IT,34,10,43996,6.52,20.0,2,13,Orta,Orta,Senior
+1220,Çalışan_220,IT,32,0,81888,9.49,68.0,14,9,Orta,Yüksek,Junior
+1221,Çalışan_221,Satış,44,18,74303,3.17,47.0,5,13,Kıdemli,Düşük,Expert
+1222,Çalışan_222,IT,37,20,88623,2.09,19.0,2,12,Orta,Düşük,Expert
+1223,Çalışan_223,Muhasebe,52,3,64123,2.78,100.0,10,29,Üst Düzey,Düşük,Junior
+1224,Çalışan_224,İK,32,18,64663,8.98,66.0,4,2,Orta,Yüksek,Expert
+1225,Çalışan_225,IT,37,20,123748,6.81,43.0,12,29,Orta,Orta,Expert
+1226,Çalışan_226,IT,29,10,62989,3.57,32.0,14,5,Genç,Düşük,Senior
+1227,Çalışan_227,Satış,25,7,74040,8.34,116.0,13,28,Genç,Yüksek,Mid
+1228,Çalışan_228,Satış,25,10,79085,8.75,57.30103092783505,12,7,Genç,Yüksek,Senior
+1229,Çalışan_229,Muhasebe,46,3,58755,8.62,60.0,14,11,Kıdemli,Yüksek,Junior
+1230,Çalışan_230,İK,24,16,101125,9.27,8.0,6,12,Genç,Yüksek,Expert
+1231,Çalışan_231,Satış,53,6,57498,3.27,67.0,1,10,Üst Düzey,Düşük,Mid
+1232,Çalışan_232,IT,24,7,67117,7.8,34.0,5,11,Genç,Yüksek,Mid
+1233,Çalışan_233,İK,48,2,73630,5.14,80.0,12,0,Kıdemli,Orta,Junior
+1234,Çalışan_234,İK,50,21,75861,8.58,97.0,5,16,Kıdemli,Yüksek,Expert
+1235,Çalışan_235,IT,53,1,61046,7.56,87.0,10,15,Üst Düzey,Yüksek,Junior
+1236,Çalışan_236,Satış,40,22,81758,7.99,95.0,2,10,Orta,Yüksek,Expert
+1237,Çalışan_237,IT,42,14,95061,6.91,64.0,5,12,Kıdemli,Orta,Senior
+1238,Çalışan_238,İK,26,23,96929,2.6,7.0,9,17,Genç,Düşük,Expert
+1239,Çalışan_239,Pazarlama,39,21,106684,5.91,44.0,9,10,Orta,Orta,Expert
+1240,Çalışan_240,Pazarlama,49,21,123276,9.86,86.0,13,27,Kıdemli,Yüksek,Expert
+1241,Çalışan_241,Muhasebe,43,4,67370,9.44,57.30103092783505,4,11,Kıdemli,Yüksek,Mid
+1242,Çalışan_242,IT,42,23,72255,1.39,39.0,11,5,Kıdemli,Düşük,Expert
+1243,Çalışan_243,IT,27,0,46683,2.48,75.0,1,8,Genç,Düşük,Junior
+1244,Çalışan_244,Muhasebe,22,3,47159,2.19,53.0,8,15,Genç,Düşük,Junior
+1245,Çalışan_245,Muhasebe,26,14,62621,7.53,75.0,7,3,Genç,Yüksek,Senior
+1246,Çalışan_246,Muhasebe,33,19,126281,8.36,45.0,2,2,Orta,Yüksek,Expert
+1247,Çalışan_247,İK,47,18,96993,2.92,46.0,7,27,Kıdemli,Düşük,Expert
+1248,Çalışan_248,IT,55,2,62242,5.55,14.0,13,15,Üst Düzey,Orta,Junior
+1249,Çalışan_249,İK,35,19,87556,8.57,104.0,8,23,Orta,Yüksek,Expert
+1250,Çalışan_250,Muhasebe,47,10,109524,7.6,18.0,13,26,Kıdemli,Yüksek,Senior
+1251,Çalışan_251,IT,48,16,95725,5.88,25.0,14,25,Kıdemli,Orta,Expert
+1252,Çalışan_252,İK,30,12,50268,6.31,51.0,2,29,Genç,Orta,Senior
+1253,Çalışan_253,İK,47,10,76293,5.58,92.0,2,24,Kıdemli,Orta,Senior
+1254,Çalışan_254,Muhasebe,43,1,74537,3.68,21.0,1,11,Kıdemli,Düşük,Junior
+1255,Çalışan_255,IT,51,8,74226,6.09,103.0,7,10,Üst Düzey,Orta,Mid
+1256,Çalışan_256,Muhasebe,38,1,77964,7.2,20.0,9,4,Orta,Yüksek,Junior
+1257,Çalışan_257,IT,47,20,132070,8.86,50.0,0,24,Kıdemli,Yüksek,Expert
+1258,Çalışan_258,Pazarlama,57,8,86353,6.73,37.0,7,17,Üst Düzey,Orta,Mid
+1259,Çalışan_259,Satış,22,8,103972,7.85,19.0,6,18,Genç,Yüksek,Mid
+1260,Çalışan_260,Satış,29,7,98029,2.44,28.0,13,22,Genç,Düşük,Mid
+1261,Çalışan_261,Satış,56,16,113974,5.15,50.0,6,22,Üst Düzey,Orta,Expert
+1262,Çalışan_262,Muhasebe,36,0,30920,1.08,3.0,2,5,Orta,Düşük,Junior
+1263,Çalışan_263,Pazarlama,43,24,79367,3.22,54.0,0,21,Kıdemli,Düşük,Expert
+1264,Çalışan_264,IT,35,10,106447,7.54,70.0,3,17,Orta,Yüksek,Senior
+1265,Çalışan_265,İK,47,7,57948,9.93,91.0,8,25,Kıdemli,Yüksek,Mid
+1266,Çalışan_266,IT,49,9,84513,1.89,27.0,4,5,Kıdemli,Düşük,Senior
+1267,Çalışan_267,İK,44,24,104958,4.61,3.0,0,3,Kıdemli,Orta,Expert
+1268,Çalışan_268,IT,35,6,73797,8.2,21.0,14,11,Orta,Yüksek,Mid
+1269,Çalışan_269,Pazarlama,45,2,43496,2.84,75.0,4,18,Kıdemli,Düşük,Junior
+1270,Çalışan_270,İK,23,2,72240,6.0,44.0,12,28,Genç,Orta,Junior
+1271,Çalışan_271,Muhasebe,47,17,61976,7.6,66.0,7,26,Kıdemli,Yüksek,Expert
+1272,Çalışan_272,IT,35,4,57579,6.54,57.30103092783505,7,28,Orta,Orta,Mid
+1273,Çalışan_273,IT,28,11,72826,2.69,107.0,4,1,Genç,Düşük,Senior
+1274,Çalışan_274,İK,24,11,95104,4.2,65.0,11,16,Genç,Orta,Senior
+1275,Çalışan_275,Muhasebe,44,18,109986,8.05,87.0,8,10,Kıdemli,Yüksek,Expert
+1276,Çalışan_276,Muhasebe,39,5,50043,5.99,33.0,14,10,Orta,Orta,Mid
+1277,Çalışan_277,Pazarlama,59,1,28447,1.05,90.0,0,20,Üst Düzey,Düşük,Junior
+1278,Çalışan_278,Muhasebe,56,11,73355,7.85,54.0,3,15,Üst Düzey,Yüksek,Senior
+1279,Çalışan_279,Muhasebe,36,18,111918,1.32,104.0,2,1,Orta,Düşük,Expert
+1280,Çalışan_280,Muhasebe,46,4,54729,7.71,0.0,1,1,Kıdemli,Yüksek,Mid
+1281,Çalışan_281,Satış,58,11,37759,2.82,71.0,14,22,Üst Düzey,Düşük,Senior
+1282,Çalışan_282,Pazarlama,49,16,108348,9.62,86.0,7,7,Kıdemli,Yüksek,Expert
+1283,Çalışan_283,IT,31,16,82327,4.31,37.0,6,12,Orta,Orta,Expert
+1284,Çalışan_284,İK,38,9,56717,3.94,5.0,8,9,Orta,Düşük,Senior
+1285,Çalışan_285,IT,43,24,122184,2.34,85.0,1,7,Kıdemli,Düşük,Expert
+1286,Çalışan_286,Pazarlama,47,22,103114,3.75,24.0,13,29,Kıdemli,Düşük,Expert
+1287,Çalışan_287,İK,46,16,57061,8.89,57.30103092783505,13,3,Kıdemli,Yüksek,Expert
+1288,Çalışan_288,Pazarlama,38,14,83360,9.97,16.0,3,14,Orta,Yüksek,Senior
+1289,Çalışan_289,Muhasebe,34,11,79150,4.31,60.0,13,29,Orta,Orta,Senior
+1290,Çalışan_290,İK,41,15,48638,5.04,11.0,14,0,Kıdemli,Orta,Senior
+1291,Çalışan_291,Muhasebe,46,23,92904,7.5,5.0,5,10,Kıdemli,Yüksek,Expert
+1292,Çalışan_292,IT,25,18,89816,8.98,89.0,10,6,Genç,Yüksek,Expert
+1293,Çalışan_293,IT,31,7,47380,6.34,26.0,2,16,Orta,Orta,Mid
+1294,Çalışan_294,İK,24,20,118218,4.52,7.0,7,26,Genç,Orta,Expert
+1295,Çalışan_295,İK,39,16,82417,4.71,82.0,2,19,Orta,Orta,Expert
+1296,Çalışan_296,Pazarlama,57,22,88131,7.26,105.0,13,23,Üst Düzey,Yüksek,Expert
+1297,Çalışan_297,Pazarlama,43,4,64295,1.03,64.0,11,17,Kıdemli,Düşük,Mid
+1298,Çalışan_298,Muhasebe,55,21,94717,6.58,56.0,12,21,Üst Düzey,Orta,Expert
+1299,Çalışan_299,İK,29,15,47139,4.2,92.0,12,28,Genç,Orta,Senior
+1300,Çalışan_300,IT,40,5,104461,8.15,108.0,1,21,Orta,Yüksek,Mid
+1301,Çalışan_301,Pazarlama,58,7,74452,1.84,112.0,12,11,Üst Düzey,Düşük,Mid
+1302,Çalışan_302,Pazarlama,27,24,124792,6.29,98.0,12,8,Genç,Orta,Expert
+1303,Çalışan_303,IT,47,17,66558,5.33,39.0,2,4,Kıdemli,Orta,Expert
+1304,Çalışan_304,Pazarlama,55,24,121063,6.78,13.0,10,9,Üst Düzey,Orta,Expert
+1305,Çalışan_305,Muhasebe,27,11,41298,1.58,34.0,5,3,Genç,Düşük,Senior
+1306,Çalışan_306,İK,58,14,55010,6.22,47.0,1,4,Üst Düzey,Orta,Senior
+1307,Çalışan_307,IT,54,8,107885,6.05,108.0,7,27,Üst Düzey,Orta,Mid
+1308,Çalışan_308,İK,43,12,54210,6.05,83.0,0,27,Kıdemli,Orta,Senior
+1309,Çalışan_309,Pazarlama,42,14,60975,6.43,55.0,6,9,Kıdemli,Orta,Senior
+1310,Çalışan_310,Pazarlama,27,9,81742,7.09,57.30103092783505,1,10,Genç,Yüksek,Senior
+1311,Çalışan_311,IT,27,15,76891,8.24,12.0,9,20,Genç,Yüksek,Senior
+1312,Çalışan_312,Muhasebe,25,6,63416,3.43,60.0,11,23,Genç,Düşük,Mid
+1313,Çalışan_313,Satış,51,16,57829,8.43,101.0,5,9,Üst Düzey,Yüksek,Expert
+1314,Çalışan_314,IT,32,22,102713,5.48,48.0,11,27,Orta,Orta,Expert
+1315,Çalışan_315,Satış,51,20,52850,1.69,45.0,1,7,Üst Düzey,Düşük,Expert
+1316,Çalışan_316,Satış,52,21,59785,1.53,112.0,1,1,Üst Düzey,Düşük,Expert
+1317,Çalışan_317,Muhasebe,45,6,55216,4.01,61.0,9,22,Kıdemli,Orta,Mid
+1318,Çalışan_318,Satış,30,13,64289,8.06,7.0,12,7,Genç,Yüksek,Senior
+1319,Çalışan_319,Satış,24,14,88120,7.37,42.0,7,15,Genç,Yüksek,Senior
+1320,Çalışan_320,Muhasebe,52,20,109520,8.1,19.0,14,26,Üst Düzey,Yüksek,Expert
+1321,Çalışan_321,Satış,58,6,82734,5.66,96.0,14,21,Üst Düzey,Orta,Mid
+1322,Çalışan_322,Satış,57,8,52497,4.96,89.0,11,4,Üst Düzey,Orta,Mid
+1323,Çalışan_323,Satış,45,18,102069,2.33,38.0,1,26,Kıdemli,Düşük,Expert
+1324,Çalışan_324,IT,52,15,74025,3.95,84.0,6,24,Üst Düzey,Düşük,Senior
+1325,Çalışan_325,IT,27,7,59409,4.91,116.0,2,28,Genç,Orta,Mid
+1326,Çalışan_326,IT,23,17,80587,1.8,48.0,7,2,Genç,Düşük,Expert
+1327,Çalışan_327,Muhasebe,41,22,119818,2.99,63.0,6,11,Kıdemli,Düşük,Expert
+1328,Çalışan_328,Pazarlama,49,17,103398,6.38,61.0,13,12,Kıdemli,Orta,Expert
+1329,Çalışan_329,Satış,32,19,101563,7.62,105.0,7,12,Orta,Yüksek,Expert
+1330,Çalışan_330,Satış,25,6,81188,9.99,106.0,13,9,Genç,Yüksek,Mid
+1331,Çalışan_331,Muhasebe,36,2,90861,9.4,53.0,6,3,Orta,Yüksek,Junior
+1332,Çalışan_332,Satış,27,17,84719,6.78,104.0,10,8,Genç,Orta,Expert
+1333,Çalışan_333,IT,51,9,69970,4.79,8.0,5,21,Üst Düzey,Orta,Senior
+1334,Çalışan_334,Pazarlama,59,6,84515,6.73,87.0,12,23,Üst Düzey,Orta,Mid
+1335,Çalışan_335,İK,23,16,74648,8.07,36.0,6,22,Genç,Yüksek,Expert
+1336,Çalışan_336,Satış,36,13,80927,2.07,48.0,4,26,Orta,Düşük,Senior
+1337,Çalışan_337,IT,32,23,85864,4.69,40.0,6,1,Orta,Orta,Expert
+1338,Çalışan_338,İK,29,2,43245,8.56,16.0,0,18,Genç,Yüksek,Junior
+1339,Çalışan_339,Pazarlama,47,11,76459,4.45,87.0,0,0,Kıdemli,Orta,Senior
+1340,Çalışan_340,İK,26,12,114869,6.15,20.0,8,24,Genç,Orta,Senior
+1341,Çalışan_341,IT,27,1,46167,6.29,50.0,13,28,Genç,Orta,Junior
+1342,Çalışan_342,İK,47,2,29024,2.66,58.0,4,6,Kıdemli,Düşük,Junior
+1343,Çalışan_343,Muhasebe,25,4,90096,4.26,38.0,12,16,Genç,Orta,Mid
+1344,Çalışan_344,İK,40,10,65228,4.01,54.0,4,2,Orta,Orta,Senior
+1345,Çalışan_345,Satış,41,7,94004,1.24,40.0,2,19,Kıdemli,Düşük,Mid
+1346,Çalışan_346,Satış,54,22,90322,1.22,38.0,4,19,Üst Düzey,Düşük,Expert
+1347,Çalışan_347,Muhasebe,41,22,90903,8.49,12.0,2,20,Kıdemli,Yüksek,Expert
+1348,Çalışan_348,IT,33,11,67585,3.46,63.0,8,29,Orta,Düşük,Senior
+1349,Çalışan_349,Satış,22,6,102523,5.66,10.0,8,2,Genç,Orta,Mid
+1350,Çalışan_350,Pazarlama,47,14,47494,3.69,109.0,5,2,Kıdemli,Düşük,Senior
+1351,Çalışan_351,Satış,35,23,133405,9.47,18.0,14,16,Orta,Yüksek,Expert
+1352,Çalışan_352,Satış,59,16,81981,3.33,10.0,0,6,Üst Düzey,Düşük,Expert
+1353,Çalışan_353,IT,58,3,54666,4.87,76.0,6,26,Üst Düzey,Orta,Junior
+1354,Çalışan_354,İK,32,21,81972,8.85,45.0,6,25,Orta,Yüksek,Expert
+1355,Çalışan_355,Satış,57,24,71872,8.58,44.0,13,13,Üst Düzey,Yüksek,Expert
+1356,Çalışan_356,Muhasebe,34,12,39707,2.67,0.0,9,16,Orta,Düşük,Senior
+1357,Çalışan_357,İK,24,17,108864,5.58,39.0,9,17,Genç,Orta,Expert
+1358,Çalışan_358,Pazarlama,54,0,28966,5.12,107.0,3,12,Üst Düzey,Orta,Junior
+1359,Çalışan_359,IT,27,15,75923,5.35,18.0,7,19,Genç,Orta,Senior
+1360,Çalışan_360,Pazarlama,31,12,46508,2.2,75.0,5,28,Orta,Düşük,Senior
+1361,Çalışan_361,İK,26,9,67603,1.73,71.0,3,19,Genç,Düşük,Senior
+1362,Çalışan_362,İK,44,11,77924,7.55,71.0,3,20,Kıdemli,Yüksek,Senior
+1363,Çalışan_363,İK,31,1,36367,5.47,60.0,1,26,Orta,Orta,Junior
+1364,Çalışan_364,Pazarlama,23,22,80303,4.93,116.0,13,17,Genç,Orta,Expert
+1365,Çalışan_365,İK,34,2,96589,7.57,108.0,1,3,Orta,Yüksek,Junior
+1366,Çalışan_366,Pazarlama,23,9,104513,7.89,11.0,11,0,Genç,Yüksek,Senior
+1367,Çalışan_367,İK,41,1,46897,2.43,60.0,13,17,Kıdemli,Düşük,Junior
+1368,Çalışan_368,Muhasebe,22,22,83592,6.49,111.0,3,0,Genç,Orta,Expert
+1369,Çalışan_369,İK,58,12,43911,2.22,32.0,4,25,Üst Düzey,Düşük,Senior
+1370,Çalışan_370,Pazarlama,30,12,84151,7.76,44.0,7,25,Genç,Yüksek,Senior
+1371,Çalışan_371,Satış,38,17,85668,6.91,89.0,14,12,Orta,Orta,Expert
+1372,Çalışan_372,İK,30,2,101952,9.61,102.0,5,19,Genç,Yüksek,Junior
+1373,Çalışan_373,Satış,32,6,28417,1.62,91.0,13,19,Orta,Düşük,Mid
+1374,Çalışan_374,Muhasebe,36,13,42280,1.51,57.30103092783505,14,22,Orta,Düşük,Senior
+1375,Çalışan_375,IT,45,19,83359,3.54,7.0,3,9,Kıdemli,Düşük,Expert
+1376,Çalışan_376,Muhasebe,59,16,67356,3.36,24.0,12,26,Üst Düzey,Düşük,Expert
+1377,Çalışan_377,İK,56,20,104991,3.22,90.0,10,10,Üst Düzey,Düşük,Expert
+1378,Çalışan_378,Satış,51,11,61376,9.16,45.0,6,8,Üst Düzey,Yüksek,Senior
+1379,Çalışan_379,Satış,52,24,85098,5.58,86.0,7,8,Üst Düzey,Orta,Expert
+1380,Çalışan_380,Pazarlama,26,15,55963,3.45,29.0,1,4,Genç,Düşük,Senior
+1381,Çalışan_381,Satış,35,23,111979,7.83,108.0,11,25,Orta,Yüksek,Expert
+1382,Çalışan_382,Pazarlama,32,11,68566,5.58,46.0,6,0,Orta,Orta,Senior
+1383,Çalışan_383,IT,30,14,111869,7.99,86.0,14,16,Genç,Yüksek,Senior
+1384,Çalışan_384,İK,55,24,81167,1.59,48.0,13,21,Üst Düzey,Düşük,Expert
+1385,Çalışan_385,Pazarlama,33,9,97628,5.39,46.0,1,1,Orta,Orta,Senior
+1386,Çalışan_386,IT,56,24,78196,1.3,83.0,1,23,Üst Düzey,Düşük,Expert
+1387,Çalışan_387,Satış,56,6,60294,1.56,81.0,7,12,Üst Düzey,Düşük,Mid
+1388,Çalışan_388,Satış,22,19,125926,9.16,17.0,1,8,Genç,Yüksek,Expert
+1389,Çalışan_389,IT,43,4,95467,2.25,65.0,14,28,Kıdemli,Düşük,Mid
+1390,Çalışan_390,Satış,50,0,85762,5.79,67.0,10,3,Kıdemli,Orta,Junior
+1391,Çalışan_391,IT,29,16,87710,4.7,93.0,8,4,Genç,Orta,Expert
+1392,Çalışan_392,Pazarlama,32,2,82348,4.13,32.0,11,10,Orta,Orta,Junior
+1393,Çalışan_393,Pazarlama,58,12,60106,9.1,35.0,0,23,Üst Düzey,Yüksek,Senior
+1394,Çalışan_394,IT,35,13,73814,1.2,81.0,14,18,Orta,Düşük,Senior
+1395,Çalışan_395,Pazarlama,51,23,108819,6.97,100.0,8,20,Üst Düzey,Orta,Expert
+1396,Çalışan_396,Pazarlama,56,17,97490,9.67,18.0,14,2,Üst Düzey,Yüksek,Expert
+1397,Çalışan_397,Pazarlama,42,3,78461,6.04,110.0,0,11,Kıdemli,Orta,Junior
+1398,Çalışan_398,Muhasebe,58,17,105773,9.43,27.0,9,25,Üst Düzey,Yüksek,Expert
+1399,Çalışan_399,İK,26,4,29952,1.47,39.0,12,18,Genç,Düşük,Mid
+1400,Çalışan_400,Satış,40,24,110655,4.77,83.0,9,18,Orta,Orta,Expert
+1401,Çalışan_401,Muhasebe,35,15,51331,3.34,112.0,1,12,Orta,Düşük,Senior
+1402,Çalışan_402,Pazarlama,47,0,87876,7.58,96.0,5,27,Kıdemli,Yüksek,Junior
+1403,Çalışan_403,IT,25,20,101038,9.83,75.0,5,6,Genç,Yüksek,Expert
+1404,Çalışan_404,Pazarlama,46,13,83772,3.31,114.0,0,14,Kıdemli,Düşük,Senior
+1405,Çalışan_405,İK,46,14,63247,6.89,14.0,6,22,Kıdemli,Orta,Senior
+1406,Çalışan_406,Pazarlama,39,8,63570,2.78,40.0,7,6,Orta,Düşük,Mid
+1407,Çalışan_407,IT,29,14,102871,6.09,38.0,1,25,Genç,Orta,Senior
+1408,Çalışan_408,İK,35,16,113517,5.18,1.0,7,7,Orta,Orta,Expert
+1409,Çalışan_409,Pazarlama,53,24,82789,9.75,62.0,8,4,Üst Düzey,Yüksek,Expert
+1410,Çalışan_410,İK,59,23,107436,6.48,28.0,5,20,Üst Düzey,Orta,Expert
+1411,Çalışan_411,Satış,54,3,71396,5.58,104.0,4,13,Üst Düzey,Orta,Junior
+1412,Çalışan_412,Satış,44,11,58731,2.03,73.0,11,3,Kıdemli,Düşük,Senior
+1413,Çalışan_413,Pazarlama,36,4,69859,2.36,65.0,8,22,Orta,Düşük,Mid
+1414,Çalışan_414,İK,54,4,75773,3.03,50.0,12,9,Üst Düzey,Düşük,Mid
+1415,Çalışan_415,IT,46,10,66254,3.26,74.0,11,19,Kıdemli,Düşük,Senior
+1416,Çalışan_416,Pazarlama,38,5,103466,8.66,76.0,10,14,Orta,Yüksek,Mid
+1417,Çalışan_417,Satış,54,6,39754,6.05,9.0,8,17,Üst Düzey,Orta,Mid
+1418,Çalışan_418,Satış,23,23,79663,5.71,13.0,0,19,Genç,Orta,Expert
+1419,Çalışan_419,Pazarlama,35,13,86928,2.03,81.0,10,12,Orta,Düşük,Senior
+1420,Çalışan_420,İK,27,23,73421,8.74,50.0,2,28,Genç,Yüksek,Expert
+1421,Çalışan_421,Satış,27,10,69631,7.51,117.0,8,7,Genç,Yüksek,Senior
+1422,Çalışan_422,İK,24,12,48369,1.61,72.0,10,8,Genç,Düşük,Senior
+1423,Çalışan_423,Satış,28,1,90429,7.37,38.0,1,15,Genç,Yüksek,Junior
+1424,Çalışan_424,Satış,29,24,84455,5.89,27.0,11,18,Genç,Orta,Expert
+1425,Çalışan_425,Muhasebe,36,6,70148,1.74,2.0,3,15,Orta,Düşük,Mid
+1426,Çalışan_426,Satış,50,19,67413,5.12,57.30103092783505,3,6,Kıdemli,Orta,Expert
+1427,Çalışan_427,IT,54,3,95649,5.36,69.0,1,13,Üst Düzey,Orta,Junior
+1428,Çalışan_428,Pazarlama,51,7,54149,2.49,26.0,14,27,Üst Düzey,Düşük,Mid
+1429,Çalışan_429,Pazarlama,48,19,96588,9.51,116.0,2,13,Kıdemli,Yüksek,Expert
+1430,Çalışan_430,İK,57,21,73235,8.65,1.0,12,24,Üst Düzey,Yüksek,Expert
+1431,Çalışan_431,Satış,50,20,111289,7.02,92.0,2,26,Kıdemli,Yüksek,Expert
+1432,Çalışan_432,IT,59,18,89704,5.16,37.0,0,3,Üst Düzey,Orta,Expert
+1433,Çalışan_433,İK,54,12,73821,4.71,2.0,5,25,Üst Düzey,Orta,Senior
+1434,Çalışan_434,Muhasebe,58,13,82304,6.86,15.0,7,14,Üst Düzey,Orta,Senior
+1435,Çalışan_435,İK,48,9,96146,5.58,93.0,11,2,Kıdemli,Orta,Senior
+1436,Çalışan_436,İK,54,10,69571,1.56,39.0,2,4,Üst Düzey,Düşük,Senior
+1437,Çalışan_437,Satış,25,1,34947,5.61,1.0,4,0,Genç,Orta,Junior
+1438,Çalışan_438,Muhasebe,43,24,99430,8.26,80.0,0,2,Kıdemli,Yüksek,Expert
+1439,Çalışan_439,İK,23,8,73301,5.13,40.0,9,14,Genç,Orta,Mid
+1440,Çalışan_440,IT,31,16,107621,1.47,11.0,6,23,Orta,Düşük,Expert
+1441,Çalışan_441,IT,26,2,99641,8.08,34.0,9,26,Genç,Yüksek,Junior
+1442,Çalışan_442,Pazarlama,31,23,123696,2.81,106.0,12,7,Orta,Düşük,Expert
+1443,Çalışan_443,Muhasebe,54,5,93334,3.33,64.0,0,28,Üst Düzey,Düşük,Mid
+1444,Çalışan_444,Muhasebe,59,4,52120,2.48,54.0,11,3,Üst Düzey,Düşük,Mid
+1445,Çalışan_445,Pazarlama,34,4,46573,3.97,44.0,10,1,Orta,Düşük,Mid
+1446,Çalışan_446,İK,52,21,79134,7.81,78.0,8,28,Üst Düzey,Yüksek,Expert
+1447,Çalışan_447,Muhasebe,57,14,96444,5.67,89.0,7,23,Üst Düzey,Orta,Senior
+1448,Çalışan_448,IT,45,22,95301,2.84,100.0,6,23,Kıdemli,Düşük,Expert
+1449,Çalışan_449,IT,36,16,125188,8.9,84.0,9,9,Orta,Yüksek,Expert
+1450,Çalışan_450,Satış,50,8,60854,8.92,61.0,14,3,Kıdemli,Yüksek,Mid
+1451,Çalışan_451,Muhasebe,29,2,69435,8.84,48.0,6,2,Genç,Yüksek,Junior
+1452,Çalışan_452,İK,26,19,90190,3.15,94.0,4,1,Genç,Düşük,Expert
+1453,Çalışan_453,Pazarlama,50,16,72831,5.06,24.0,4,24,Kıdemli,Orta,Expert
+1454,Çalışan_454,Pazarlama,25,9,106213,9.86,22.0,10,16,Genç,Yüksek,Senior
+1455,Çalışan_455,İK,33,2,61113,7.95,23.0,12,22,Orta,Yüksek,Junior
+1456,Çalışan_456,Satış,23,17,100764,1.24,57.30103092783505,4,20,Genç,Düşük,Expert
+1457,Çalışan_457,Pazarlama,48,17,51101,1.59,27.0,0,23,Kıdemli,Düşük,Expert
+1458,Çalışan_458,Muhasebe,52,16,67087,5.18,20.0,7,19,Üst Düzey,Orta,Expert
+1459,Çalışan_459,Satış,57,23,72218,9.18,53.0,11,22,Üst Düzey,Yüksek,Expert
+1460,Çalışan_460,Muhasebe,57,2,94808,5.85,106.0,10,12,Üst Düzey,Orta,Junior
+1461,Çalışan_461,IT,47,2,61077,5.48,17.0,0,4,Kıdemli,Orta,Junior
+1462,Çalışan_462,Satış,48,5,58310,1.95,35.0,3,29,Kıdemli,Düşük,Mid
+1463,Çalışan_463,Pazarlama,26,12,102574,6.91,98.0,14,20,Genç,Orta,Senior
+1464,Çalışan_464,Satış,41,23,128738,8.4,44.0,8,29,Kıdemli,Yüksek,Expert
+1465,Çalışan_465,Satış,32,14,74211,4.42,118.0,13,8,Orta,Orta,Senior
+1466,Çalışan_466,Satış,31,24,118461,7.98,72.0,8,24,Orta,Yüksek,Expert
+1467,Çalışan_467,Satış,59,8,107306,9.68,52.0,4,28,Üst Düzey,Yüksek,Mid
+1468,Çalışan_468,Muhasebe,27,3,63627,2.83,101.0,3,24,Genç,Düşük,Junior
+1469,Çalışan_469,IT,29,13,63545,5.71,29.0,2,27,Genç,Orta,Senior
+1470,Çalışan_470,İK,44,4,62053,3.58,59.0,2,21,Kıdemli,Düşük,Mid
+1471,Çalışan_471,Satış,47,1,63787,8.14,107.0,11,5,Kıdemli,Yüksek,Junior
+1472,Çalışan_472,Pazarlama,33,10,81932,6.2,97.0,4,4,Orta,Orta,Senior
+1473,Çalışan_473,Satış,47,8,94673,6.71,31.0,9,24,Kıdemli,Orta,Mid
+1474,Çalışan_474,Pazarlama,34,23,78183,8.18,66.0,0,9,Orta,Yüksek,Expert
+1475,Çalışan_475,Muhasebe,39,2,41330,4.56,66.0,4,7,Orta,Orta,Junior
+1476,Çalışan_476,Pazarlama,46,8,61936,9.24,27.0,5,6,Kıdemli,Yüksek,Mid
+1477,Çalışan_477,İK,54,2,60967,5.8,43.0,6,6,Üst Düzey,Orta,Junior
+1478,Çalışan_478,IT,33,24,110464,2.42,78.0,11,5,Orta,Düşük,Expert
+1479,Çalışan_479,Pazarlama,57,1,41126,7.26,40.0,8,20,Üst Düzey,Yüksek,Junior
+1480,Çalışan_480,Pazarlama,25,11,115788,8.14,62.0,2,28,Genç,Yüksek,Senior
+1481,Çalışan_481,IT,26,9,100515,3.85,22.0,14,19,Genç,Düşük,Senior
+1482,Çalışan_482,İK,58,8,113669,8.71,103.0,1,2,Üst Düzey,Yüksek,Mid
+1483,Çalışan_483,Satış,29,14,65076,9.16,74.0,13,18,Genç,Yüksek,Senior
+1484,Çalışan_484,Pazarlama,49,7,100491,3.49,47.0,2,21,Kıdemli,Düşük,Mid
+1485,Çalışan_485,IT,52,24,107078,9.85,31.0,11,14,Üst Düzey,Yüksek,Expert
+1486,Çalışan_486,Muhasebe,30,4,29795,2.27,56.0,8,3,Genç,Düşük,Mid
+1487,Çalışan_487,IT,50,10,50124,2.82,117.0,11,27,Kıdemli,Düşük,Senior
+1488,Çalışan_488,Muhasebe,35,1,78369,2.66,99.0,6,11,Orta,Düşük,Junior
+1489,Çalışan_489,İK,43,23,102103,9.05,32.0,8,5,Kıdemli,Yüksek,Expert
+1490,Çalışan_490,Satış,32,14,94893,6.89,23.0,12,18,Orta,Orta,Senior
+1491,Çalışan_491,IT,44,5,32489,2.37,38.0,1,3,Kıdemli,Düşük,Mid
+1492,Çalışan_492,Pazarlama,22,7,54621,4.96,33.0,4,14,Genç,Orta,Mid
+1493,Çalışan_493,İK,58,4,92656,6.54,55.0,12,8,Üst Düzey,Orta,Mid
+1494,Çalışan_494,IT,42,15,50686,1.75,27.0,3,4,Kıdemli,Düşük,Senior
+1495,Çalışan_495,Pazarlama,47,17,111743,8.94,36.0,14,12,Kıdemli,Yüksek,Expert
+1496,Çalışan_496,IT,57,5,39621,5.58,6.0,1,22,Üst Düzey,Orta,Mid
+1497,Çalışan_497,Muhasebe,44,4,76943,5.55,67.0,8,25,Kıdemli,Orta,Mid
+1498,Çalışan_498,IT,22,15,117863,9.7,36.0,8,17,Genç,Yüksek,Senior
+1499,Çalışan_499,IT,36,12,85348,4.76,55.0,5,29,Orta,Orta,Senior
+1500,Çalışan_500,IT,42,4,89324,9.86,64.0,10,29,Kıdemli,Yüksek,Mid
