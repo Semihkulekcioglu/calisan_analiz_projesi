@@ -258,15 +258,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 In short: You are free to use, modify, and distribute this project!
 
-## 📧 Contact
-
-**Semih Külekçioğlu**
-
-- 🐙 **GitHub**: [@Semihkulekcioglu](https://github.com/Semihkulekcioglu)
-- 💼 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/yourprofile/)
-- 📧 **Email**: your.email@example.com
-- 🌐 **Portfolio**: [website.com](https://your-website.com)
-
 ## 🌟 If You Like This Project
 
 If you found this project useful:
@@ -282,15 +273,6 @@ This motivates me to develop more projects! 🚀
 - **Pandas Team** - For an amazing data analysis library
 - **Matplotlib & Seaborn** - For beautiful visualizations
 - **GitHub** - For the open-source community
-
-## 📚 My Other Projects
-
-If you'd like to check out my other data science projects:
-- [Project 1](https://github.com/Semihkulekcioglu/proje1)
-- [Project 2](https://github.com/Semihkulekcioglu/proje2)
-- [Portfolio](https://github.com/Semihkulekcioglu)
-
----
 
 <div align="center">
 
