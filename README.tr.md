@@ -258,15 +258,6 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](
 
 Kısacası: Projeyi özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz!
 
-## 📧 İletişim
-
-**Semih Külekçioğlu**
-
-- 🐙 **GitHub**: [@Semihkulekcioglu](https://github.com/Semihkulekcioglu)
-- 💼 **LinkedIn**: [Profiliniz](https://www.linkedin.com/in/profiliniz/)
-- 📧 **Email**: your.email@example.com
-- 🌐 **Portfolio**: [website.com](https://your-website.com)
-
 ## 🌟 Projeyi Beğendiyseniz
 
 Eğer bu projeyi faydalı bulduysanız:
@@ -282,16 +273,7 @@ Bu beni motive eder ve daha fazla proje geliştirmemi sağlar! 🚀
 - **Pandas Ekibi** - Harika bir veri analiz kütüphanesi için
 - **Matplotlib & Seaborn** - Güzel görselleştirmeler için
 - **GitHub** - Açık kaynak topluluğu için
-
-## 📚 Diğer Projelerim
-
-Diğer veri bilimi projelerime göz atmak isterseniz:
-- [Proje 1](https://github.com/Semihkulekcioglu/proje1)
-- [Proje 2](https://github.com/Semihkulekcioglu/proje2)
-- [Portfolio](https://github.com/Semihkulekcioglu)
-
----
-
+  
 <div align="center">
 
 **Python ve ❤️ ile yapıldı**
